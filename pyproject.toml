@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-minimax-h3-my-prompt-synthesizer"
+version = "1.0.0"
+description = "MiniMax H3 prompt synthesizer + canvas annotator with base/overlay image upload, reusable transparent overlay, and delete buttons."
+requires-python = ">=3.9"
+dependencies = ["aiohttp", "Pillow", "numpy"]
+
+[project.urls]
+Homepage = "https://github.com/CraftBlack/ComfyUI-MiniMax-H3-_My_Prompt_Synthesizer"
+Issues = "https://github.com/CraftBlack/ComfyUI-MiniMax-H3-_My_Prompt_Synthesizer/issues"
+
+[tool.comfy]
+PublisherId = "CraftBlack"
+DisplayName = "MiniMax H3 My Prompt Synthesizer"
+Icon = ""

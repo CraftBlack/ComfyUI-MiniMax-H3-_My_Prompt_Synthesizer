@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Artefak lokal
+*.log
+*.tmp
+*.downloading
+thumbs.db
+Thumbs.db
+desktop.ini
+.DS_Store
+New Text Document.txt
+
+# Editor
+.vscode/
+.idea/
+*.swp
